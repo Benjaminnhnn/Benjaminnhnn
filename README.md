@@ -23,7 +23,8 @@ Security Mindset: Embedding security practices into every stage of system design
 I enjoy working on hands‑on projects where I can combine a security mindset with engineering practices, especially in cloud-native environments. My goal is to contribute to open-source projects, share knowledge, and grow as a DevOps engineer. 
 
 
-⚡ Tech Stack & Arsenal
+# ⚡ Tech Stack & Arsenal
+---
 
 ### 🌐 Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws&logoColor=white)
