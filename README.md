@@ -19,7 +19,7 @@ Operating Systems: Linux, Windows Server
 
   - Security Mindset: Embedding security practices into every stage of system design and operations.
     
-I enjoy working on hands‑on projects where I can combine a security mindset with engineering practices, especially in cloud-native environments. My goal is to contribute to open-source projects, share knowledge, and grow as a DevOps engineer.
+I enjoy working on hands‑on projects where I can combine a security mindset with engineering practices, especially in cloud-native environments. My goal is to contribute to open-source projects, share knowledge, and grow as a DevOps engineer. 
 
 
 ⚡ Tech Stack & Arsenal
