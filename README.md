@@ -2,7 +2,7 @@
 
  I’m Le Hoang Viet | Cloud Engineer & DevOps Intern passionate about building scalable, automated, and secure systems.
 
-🔧 Tech Stack & Interests
+# 🔧 Tech Stack & Interests
 
 Programming: C++, C#, Python, Bash, Java, SQL
 
