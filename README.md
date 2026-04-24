@@ -1,4 +1,4 @@
-Hello world! 
+# Hello world! 
 
  I’m Le Hoang Viet | Cloud Engineer & DevOps Intern passionate about building scalable, automated, and secure systems.
 
@@ -10,14 +10,15 @@ DevOps & Cloud: Docker, Kubernetes, Terraform, Ansible, GitHub Actions, OpenStac
 
 Operating Systems: Linux, Windows Server
 
-🎯 Career Direction & Goals
-  - Cloud Engineering: Designing and optimizing infrastructure on AWS, GCP, and OpenStack with a focus on scalability.
 
-  - DevOps: Automating deployments, monitoring, and CI/CD pipelines to ensure zero‑downtime delivery.
+# 🎯 Career Direction & Goals
+---
 
-  - DevOps: Automating deployments, monitoring, and CI/CD pipelines to ensure zero‑downtime delivery.
+Cloud Engineering: Designing and optimizing infrastructure on AWS, GCP, and OpenStack with a focus on scalability.
 
-  - Security Mindset: Embedding security practices into every stage of system design and operations.
+DevOps: Automating deployments, monitoring, and CI/CD pipelines to ensure zero‑downtime delivery.
+
+Security Mindset: Embedding security practices into every stage of system design and operations.
     
 I enjoy working on hands‑on projects where I can combine a security mindset with engineering practices, especially in cloud-native environments. My goal is to contribute to open-source projects, share knowledge, and grow as a DevOps engineer. 
 
