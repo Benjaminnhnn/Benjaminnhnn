@@ -1,6 +1,6 @@
 # Hello world! 
 
- I’m Le Hoang Viet | Cloud Engineer & DevOps Intern passionate about building scalable, automated, and secure systems.
+ I’m Le Hoang Viet | Cloud Engineer & DevOps passionate about building scalable, automated, and secure systems.
 
 # 🔧 Tech Stack & Interests
 
