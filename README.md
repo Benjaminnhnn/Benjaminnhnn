@@ -46,8 +46,9 @@ I enjoy working on hands‑on projects where I can combine a security mindset wi
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-lightblue?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-lightgrey?logo=c&logoColor=blue)
 ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-green?logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=postgresql&logoColor=blue)
+
