@@ -6,7 +6,7 @@
 
 Programming: C++, C#, Python, Bash, Java, SQL
 
-DevOps & Cloud: Docker, Kubernetes, Terraform, Ansible, GitHub Actions, OpenStack, AWS, Azure, GCP
+DevOps & Cloud: Docker, Kubernetes, Terraform, Ansible, GitHub Actions, ArgoCD, AWS.
 
 Operating Systems: Linux, Windows Server
 
